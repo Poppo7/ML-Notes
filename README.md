@@ -1,2 +1,2 @@
 # ML-Notes
-Personal machine learning notes
+Personal machine learning notes (arbitrary collection)
